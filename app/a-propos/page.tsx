@@ -14,9 +14,9 @@ export default function AProposPage() {
           que les personnalités et structures qui contribuent à son rayonnement.
         </p>
         <p className="text-sm text-pabo-muted mt-2.5 leading-relaxed">
-          L&apos;événement récompense 19 catégories, réparties en 5 univers. Le vainqueur de
+          L&apos;événement récompense 15 catégories, réparties en 5 univers. Le vainqueur de
           chaque catégorie est désigné exclusivement par vote public en ligne : chaque vote coûte
-          100 FCFA, et le classement est visible en temps réel pendant toute la période de vote.
+          100 FCFA, sans frais et le classement est visible en temps réel pendant toute la période de vote.
         </p>
         <p className="text-sm text-pabo-muted mt-2.5">
           Les Pabo awards sont présentés par Esprit Guerrier.
