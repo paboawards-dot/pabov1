@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-padding-top: env(safe-area-inset-top, 0px);
+}
+
+:root {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
